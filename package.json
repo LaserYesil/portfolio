@@ -23,7 +23,7 @@
     "bootstrap-vue": "^2.0.0",
     "express": "^4.17.1",
     "mysql": "^2.18.1",
-    "nuxt": "^2.0.0",
+    "nuxt": "^2.15.8",
     "nuxt-fontawesome": "^0.4.0",
     "vue-toasted": "^1.1.27",
     "vuetify": "^2.0.0"
